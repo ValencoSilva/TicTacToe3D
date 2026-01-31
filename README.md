@@ -142,12 +142,12 @@ Gleice - Level Designer
 ---
 
 ## 📸 Screenshots / Videos
-- **Menu**
+
 ![Menu Screenshot](docs/images/Menu.png)
 
 ![AI Gameplay GIF](docs/images/IA.gif)
 
--**PowerUp**
+
 ![PowerUp Screenshot](docs/images/PowerUp.png)
 
 ![PowerUp Gameplay GIF](docs/images/Power_up.gif)
