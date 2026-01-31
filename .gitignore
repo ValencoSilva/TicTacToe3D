@@ -1,0 +1,37 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Bb]uild/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Visual Studio / Rider / VSCode
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.unityproj
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Releases / Binaries
+releases/
+*.zip
+*.7z
+*.exe
+*.apk
+*.ipa
