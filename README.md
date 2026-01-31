@@ -13,22 +13,21 @@
 
 <p align="center">
   <b>3D 4×4×4 game prototype created with the support of ChatGPT (GPT-4) to investigate prompting limits, human-AI co-authorship, and learning.</b><br/>
-  <sub>Stack: Unity • C# • Git/GitHub • (optional) Netcode/Photon</sub>
+  <sub>Stack: Unity • C# • Git/GitHub
 </p>
 
 <p align="center">
   <a href="#-overview">Overview</a> •
   <a href="#-features">Features</a> •
   <a href="#-technical-stack">Technical Stack</a> •
-  <a href="#-how-to-run">How to Run</a> •
+  <a href="#-feature-list">Feature List</a> •
   <a href="#-controls">Controls</a> •
   <a href="#-methodology">Methodology</a> •
   <a href="#-challenges">Challenges</a> •
   <a href="#-results">Results</a> •
-  <a href="#-demo">Demo</a> •
-  <a href="#-repository-structure">Repository Structure</a> •
-  <a href="#-roadmap">Roadmap</a> •
-  <a href="#-license">License</a>
+  <a href="#-Role">Role in the Project</a> •
+  <a href="#-Credits">Credits</a> •
+  <a href="#-Screenshots / Videos">Screenshots / Videos</a> 
 </p>
 
 ---
@@ -143,11 +142,12 @@ Gleice - Level Designer
 ---
 
 ## 📸 Screenshots / Videos
-
+- **Menu**
 ![Menu Screenshot](docs/images/Menu.png)
 
 ![AI Gameplay GIF](docs/images/IA.gif)
 
+-**PowerUp**
 ![PowerUp Screenshot](docs/images/PowerUp.png)
 
 ![PowerUp Gameplay GIF](docs/images/Power_up.gif)
