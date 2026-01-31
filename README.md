@@ -25,9 +25,9 @@
   <a href="#-methodology">Methodology</a> •
   <a href="#-challenges">Challenges</a> •
   <a href="#-results">Results</a> •
-  <a href="#-Role">Role in the Project</a> •
-  <a href="#-Credits">Credits</a> •
-  <a href="#-Screenshots / Videos">Screenshots / Videos</a> 
+  <a href="#-role-in-the-project">Role in the Project</a> •
+  <a href="#-credits(team)">Credits (Team)</a> •
+  <a href="#-screenshots-videos">Screenshots / Videos</a> 
 </p>
 
 ---
